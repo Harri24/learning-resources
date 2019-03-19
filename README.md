@@ -11,4 +11,4 @@ I am currently learning to becoming a software developer using this selection of
 - Code Academy [Introduction to JavaScript](https://www.codecademy.com/learn/introduction-to-javascript)
 - Rabea's Hangman Exercise 
 - [Udemy Complete Web Developer Course](https://www.udemy.com/the-complete-web-developer-zero-to-mastery/learn/v4/overview)
-- [30 Days of Code)(https://www.hackerrank.com/domains/tutorials/30-days-of-code)
+- [30 Days of Code](https://www.hackerrank.com/domains/tutorials/30-days-of-code)
